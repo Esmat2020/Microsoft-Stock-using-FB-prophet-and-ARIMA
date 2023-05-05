@@ -11,7 +11,7 @@ This data was acquired in google sheets using the command 'GOOGLEFINANCE'
 Inspiration
 With this data you can do basic EDA and use predictive analysis.
 
-[An End-to-End Guide on Time Series Forecasting Using FbProphet](https://www.analyticsvidhya.com/blog/2022/04/an-end-to-end-guide-on-time-series-forecasting-using-fbprophet/
+[An End-to-End Guide on Time Series Forecasting Using FbProphet](https://www.analyticsvidhya.com/blog/2022/04/an-end-to-end-guide-on-time-series-forecasting-using-fbprophet/)
 
 A very good refence  to understand the time series by Omar Mohyeldin
 [Introduction to Time Series.ipynb](https://github.com/OmarMohy/Time-series-analysis-and-Forecasting/blob/main/Introduction%20to%20Time%20Series.ipynb)
